@@ -1,8 +1,3 @@
-# BashScripting
-
-
-```_**Quick Nutshell:**__```
-
 Bash is the language of the terminal and programming it basically means executing a bunch of terminal commands.
 
 A .sh (bash) file with the contents:
@@ -22,4 +17,4 @@ will print the contents of the ```/etc/passwd``` file and the results of ```ls``
 
 What you should take away from this:
 
-**Bash will show you the results of your commands executed top to bottom.**
+```**Bash will show you the results of your commands executed top to bottom.**```
