@@ -1,7 +1,9 @@
 # BashScripting
 
 
-Quick Nutshell: Bash is the language of the terminal and programming in it basically executes a bunch of terminal commands.
+_**Quick Nutshell:**__
+
+Bash is the language of the terminal and programming in it basically executes a bunch of terminal commands.
 
 A .sh (bash) file with the contents:
 ```
